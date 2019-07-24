@@ -1,1 +1,2 @@
 Frist line
+1st line of branchB
