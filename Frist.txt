@@ -1,3 +1,4 @@
 Frist line
 This line for branchA
 2nd line for branchA
+1st line of branchB
